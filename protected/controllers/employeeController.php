@@ -94,9 +94,32 @@ public function actionAdd() {
         
         
         
+
+        
 public function actionDelete() {
-        $this->render('delete');
+        
+ $dataProvider = new CActiveDataProvider('Employee');
+    
+   
+		$this->render('delete',array(
+			'dp'=>$dataProvider,
+		));
+        
     }
+    
+public function actionDel($id) {
+    
+    
+    $this->loadModel((int)$id)->delete();
+    
+    $this->redirect('index.php?r=employee/delete');
+ 
+
+        
+    }    
+          
+    
+    
     
 
     

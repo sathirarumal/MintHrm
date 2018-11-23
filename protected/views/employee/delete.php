@@ -11,8 +11,13 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Employee Delete</h1>
-        <?php
-        // put your code here
-        ?>
+        <h3>If you want Delete click the EmployeeID</h3>
+<div class="delete">
+<?php $this->widget('zii.widgets.CListView', array(
+	'dataProvider'=>$dp,
+	'itemView'=>'_view2',
+)); ?>
+</div>
+       
     </body>
 </html>

@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Employee Update</h1>
+        <h3>If you want update click the EmployeeID</h3>
 <div class="update">
 <?php $this->widget('zii.widgets.CListView', array(
 	'dataProvider'=>$dp,

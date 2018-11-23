@@ -2210,3 +2210,135 @@ Stack trace:
 #5 {main}
 REQUEST_URI=/MintHRM/index.php?r=employee
 ---
+2018/11/23 06:11:26 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:08 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:09 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:09 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:09 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:10 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:10 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:10 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:10 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:10 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:10 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
+2018/11/23 06:14:11 [error] [php] Undefined variable: id (C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php:111)
+Stack trace:
+#0 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(286): employeeController->runAction()
+#1 C:\softwears\xampp\htdocs\yii\framework\web\CController.php(265): employeeController->runActionWithFilters()
+#2 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(282): employeeController->run()
+#3 C:\softwears\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\softwears\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#5 C:\softwears\xampp\htdocs\MintHrm\index.php(13): CWebApplication->run()
+REQUEST_URI=/MintHRM/index.php?r=employee/Del&id=1
+in C:\softwears\xampp\htdocs\MintHrm\protected\controllers\employeeController.php (111)
+in C:\softwears\xampp\htdocs\MintHrm\index.php (13)
